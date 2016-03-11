@@ -8,7 +8,8 @@
   margin: auto; }
 
 div {
-  border: 1px dotted blue; }
+  border: 1px dotted blue;
+  display: block; }
 
 .nav-top {
   background-color: #393939;
