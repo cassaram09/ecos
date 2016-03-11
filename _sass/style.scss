@@ -1,0 +1,30 @@
+$font-stack: Georgia ;
+$dark-grey: #393939; 
+$light-grey: #F0F2EF;
+$light-green: #ABD1A5;
+$dark-green: #2C9B95;
+$blue: #86BBDB;
+
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+.container {
+  width: 960px;
+  margin: auto;
+}
+
+div {
+  border: 1px dotted blue;
+}
+
+.nav-top {
+  background-color: $dark-grey;
+  padding: 20px;
+}
+
+.nav-bottom {
+  background-color: $light-grey;
+}
